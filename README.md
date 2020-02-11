@@ -6,14 +6,14 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+Air di SMP N 1 Semarang agak kotor dan sering tidak ada air atau jika kran air dibuka air tidak keluar.
 
 # Solution
-(tulis solusi disini)
+Membersiihkan penampungan air secara berkala dan menghemat penggunaan air di SMP N 1 Semarang.
 
 
 ## Author
-by (tulis nama kamu) 
+by Rossi Narendra Wirayudha 
 
 
 cc: SMPN 1 Semarang
